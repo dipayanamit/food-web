@@ -20,6 +20,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -30,6 +31,11 @@ section{
 }
 .top{
     background-image: url(shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.middle{
+    background-image: url(shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
